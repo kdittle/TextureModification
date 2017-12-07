@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TextToTexture/TextToTextureExample.unity
+    guid: 4200b2054e993ae418b95f5bda48c67b
